@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FlickFinder/ViewController.swift"
-            timestampString = "468372344.175078"
+            timestampString = "468391509.753749"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
             landmarkName = "locationSearch(_:)"
             landmarkType = "5">
          </BreakpointContent>

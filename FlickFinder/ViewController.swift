@@ -39,6 +39,8 @@ class ViewController: UIViewController, UITextFieldDelegate {
         // in order to make keyboard hide work, set textField delegate
         // and set delegate method "textFieldShouldReturn"
         phraseTextField.delegate = self
+        latitudeTextField.delegate = self
+        longitudeTextField.delegate = self
     }
 
     override func viewWillAppear(animated: Bool) {
